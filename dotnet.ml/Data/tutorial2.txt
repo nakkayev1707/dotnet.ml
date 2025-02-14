@@ -1,8 +1,0 @@
-﻿Machine Learning (ML) is a branch of artificial intelligence (AI) focused on building systems that learn from data. 
-There are three main types of ML: supervised learning, unsupervised learning, and reinforcement learning.
-
-Supervised learning uses labeled data to train models. Common algorithms include decision trees, support vector machines, and neural networks.
-
-Unsupervised learning finds patterns in data without labeled outputs. Clustering algorithms such as k-means and DBSCAN are common examples.
-
-Reinforcement learning involves agents learning through rewards and penalties, often used in robotics and game AI.

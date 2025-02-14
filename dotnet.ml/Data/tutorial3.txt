@@ -1,7 +1,0 @@
-﻿Text processing is crucial in Natural Language Processing (NLP). Steps include:
-1. Tokenization – Splitting text into words or sentences.
-2. Stopword Removal – Removing common words like 'the', 'and', 'is'.
-3. Stemming/Lemmatization – Reducing words to their base form.
-4. Vectorization – Converting text into numerical representations using TF-IDF or word embeddings.
-
-ML.NET provides text transformation APIs like FeaturizeText() to process text efficiently.
